@@ -1,5 +1,8 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Afrid P</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+
+<img align="right" alt="Coder GIF"  width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gf" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afridp&label=Profile%20views&color=0e75b6&style=flat" alt="afridp" /> </p>
 
@@ -13,7 +16,7 @@
 
 - 📫 How to reach me **afridafriperingaden@gmail.com**
 
-- ⚡ Fun fact **im a foddie**
+⚡ Fun fact: I'm a foddie.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
